@@ -1,6 +1,6 @@
 ## [See Visualizations and Results](https://github.com/CarolineNB/Large-Scale-Visual-Analytics/blob/master/USDA%20Food%20Compositions/Mini-Project_%20USDA%20Food%20Composition.pdf)
 
-# Visualizing Anomolies in USDA Food Composition 
+# Visualizing Anomalies in USDA Food Composition 
 Contributors: Caroline Barker and Andrew Liang \
 Created: 5.11.20
 
