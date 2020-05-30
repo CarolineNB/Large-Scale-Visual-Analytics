@@ -28,3 +28,6 @@ NUMBER OF MOTORISTS KILLED | Number of motorists killed | Number
 
 
 ## Question 1: Which places are the most collisions prone?
+We addressed this question with a geographic map that represents data across all years in the dataset. Coordinates are rounded to 8 decimal places and their radius corresponds to the number of collisions. They are color coded by standard deviations away from the mean, so that we can identify collision hotspots more easily. The red points or circles are places that are three standard deviations away from the mean, and are the hotspots we identified. On the opposite end of the spectrum, blue points are points below the 50th percentile.
+
+![Preliminary Map](https://github.com/CarolineNB/Large-Scale-Visual-Analytics/blob/master/NY%20Vehicle%20Collisions/demos/Standard%20Deviation.PNG)
