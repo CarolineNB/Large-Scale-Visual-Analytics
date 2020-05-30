@@ -1,3 +1,5 @@
+## [Visualizations and Results](https://github.com/CarolineNB/Large-Scale-Visual-Analytics/blob/master/NY%20Vehicle%20Collisions/Mini-Project_%20Analysis%20of%20NYC%20Vehicle%20Collisions.pdf)
+
 # Analysis of NYC Vehicle Collisions
 Contributors: Caroline Barker and Andrew Liang \
 Created: 4.20.20
@@ -26,5 +28,3 @@ NUMBER OF CYCLISTS KILLED | Number of cyclists killed | Number
 NUMBER OF MOTORISTS INJURED | Number of motorists injured | Number
 NUMBER OF MOTORISTS KILLED | Number of motorists killed | Number
 
-
-## For results visit [here](https://github.com/CarolineNB/Large-Scale-Visual-Analytics/blob/master/NY%20Vehicle%20Collisions/Mini-Project_%20Analysis%20of%20NYC%20Vehicle%20Collisions.pdf)
