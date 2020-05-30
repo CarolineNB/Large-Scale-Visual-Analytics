@@ -1,3 +1,5 @@
+## [See Visualizations and Results](https://github.com/CarolineNB/Large-Scale-Visual-Analytics/blob/master/USDA%20Food%20Compositions/Mini-Project_%20USDA%20Food%20Composition.pdf)
+
 # Visualizing Anomolies in USDA Food Composition 
 Contributors: Caroline Barker and Andrew Liang \
 Created: 5.11.20
@@ -10,4 +12,4 @@ We wanted to identify foods or categories that are compositionally dissimilar de
 [US Department of Agriculture--FoodData Central](https://fdc.nal.usda.gov/) 
 
 
-## For our detailed results visit [here](https://github.com/CarolineNB/Large-Scale-Visual-Analytics/blob/master/USDA%20Food%20Compositions/Mini-Project_%20USDA%20Food%20Composition.pdf)
+
