@@ -7,7 +7,7 @@ We wanted to identify foods or categories that are compositionally dissimilar de
 
 
 ## Dataset
-[US Department of Agriculture--FoodData Central - Crashes](https://fdc.nal.usda.gov/) \
+[US Department of Agriculture--FoodData Central](https://fdc.nal.usda.gov/) 
 
 
 ## For our detailed results visit [here](https://github.com/CarolineNB/Large-Scale-Visual-Analytics/blob/master/USDA%20Food%20Compositions/Mini-Project_%20USDA%20Food%20Composition.pdf)
